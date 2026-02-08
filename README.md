@@ -606,7 +606,7 @@
 - [GPU Screen Recorder](https://flathub.org/apps/com.dec05eba.gpu_screen_recorder) - Shadowplay-like screen recorder that is fast. 🐧
 - [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay) - Record gameplay videos, screenshots, and livestreams. 🪟
 - [ScreenToGif](https://www.screentogif.com/) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
-- [CCTV Video (CBox)](https://app.cctv.com/) - Official CCTV app for watching live TV and on-demand content. 🪟
+- [CCTV-2 Live](https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13) - Watch CCTV-2 live stream directly in your browser. 🪟
 
 ### Video Converters and Compressors
 
